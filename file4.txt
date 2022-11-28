@@ -1,5 +1,4 @@
-I am learning Git
-This is my second line of code
+This is my second line of codeThis is my second line of codeThis is my second line of code
 This is my second line of code
 This is my second line of code
 This is my second line of code
